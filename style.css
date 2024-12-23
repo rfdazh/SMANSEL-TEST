@@ -1,0 +1,64 @@
+*,
+html {
+  margin: 0;
+  padding: 0;
+}
+
+.animationbuttontop:hover {
+  background-color: #850305ef;
+}
+
+.buttonclick1 {
+  border-radius: 20px;
+  border: 1px solid beige;
+  text-decoration: none;
+  color: beige;
+  background-color:rgba(129, 230, 14, 0);
+}
+
+.buttonclick1:hover {
+  background-color: rgba(0, 255, 255, 0.505);
+}
+
+.buttonclick {
+  border-radius: 20px;
+  border: 1px solid beige;
+  text-decoration: none;
+  color: beige;
+  background-color:rgba(129, 230, 14, 0);
+}
+
+.buttonclick1 {
+  border-radius: 20px;
+  border: 1px solid beige;
+  text-decoration: none;
+  background-color:rgba(129, 230, 14, 0);
+}
+
+.buttonclick:hover {
+    background-color: rgb(32, 178, 170);
+  }
+
+.galerifotokegiatan {
+  border-radius: 20px;
+  border: 1px solid black;
+  text-decoration: none;
+  color: black;
+  background-color:aqua;
+  margin-top: 10px;
+  font-weight: 500;
+}
+
+.galerisekolah {
+  background-color: red;
+}
+
+.spananimasi1 {
+  font-size: 18px;
+  color: beige;
+}
+
+.spananimasi2 {
+  font-size: 18px;
+  color: greenyellow;
+}
